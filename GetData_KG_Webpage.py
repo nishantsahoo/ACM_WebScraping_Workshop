@@ -7,3 +7,4 @@ r = urllib3.PoolManager().request('GET', url).data
 soup = BeautifulSoup(r, "html.parser")
 print soup.find('title')
 print soup.find('title').text
+
