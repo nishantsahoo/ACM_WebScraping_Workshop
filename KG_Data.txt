@@ -1,0 +1,9 @@
+
+Learnt concepts of Continuous Integration, Shippable, Docker, NodeJS, AngularJS, MongoDB, and PostgreSQL.
+
+
+Became super confident with Bash scripting and Unix command-line and fell in love with Git while it changed my life as a software developer.
+
+
+Helped Shippable in migration from MongoDB to PostgreSQL, in redesigning their website UI, and in fixing bugs
+
