@@ -5,4 +5,4 @@ ScrapeURL.py is a python script which can be used to get the source code of any 
 Scraping certain websites like Facebook, LinkedIN, etc. is illegal.
 One should not try scraping any website without reading its TERMS AND CONDITIONS. <br>
 This workshop is just for the purpose of understanding how scraping can help automate many tasks which can take longer if performed manually. <br>
-<a href="https://www.quora.com/What-is-the-legality-of-web-scraping"> Refer this link. </a>
+<a href="https://www.quora.com/What-is-the-legality-of-web-scraping"> What is the legality of web scraping? </a>
