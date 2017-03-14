@@ -7,3 +7,5 @@ r = urllib3.PoolManager().request('GET', url).data  # http://urllib3.readthedocs
 soup = BeautifulSoup(r, "html.parser")  # Beautiful soup object
 print soup
 # urllib3.PoolManager().request('GET', url).data => Returns an HTTPResponse object whose data is stored in a variable
+title = soup.find('title')
+# print title.text

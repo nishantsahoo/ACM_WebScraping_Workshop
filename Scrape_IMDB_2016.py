@@ -2,7 +2,7 @@ import urllib3
 import sys
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-for year in range(2010,2017):
+for year in range(1898,2017):
     sys.stdout = open('IMDB_Top_50_' + str(year) +'_urllib3.txt', 'w')
     url = "http://www.imdb.com/search/title?release_date=" + str(year) + ',' + str(year) + "&title_type=feature"
     r = urllib3.PoolManager().request('GET', url).data
